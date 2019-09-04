@@ -56,7 +56,7 @@ $name = $_POST['name(f)'];
 	</div>
 	
 	<p class="center"><?php echo 'your name　　' . $name; ?></p>
-	
+	<div>1</div>
 	<div class="container">
 		<div class="container">
 			<div class="container">
