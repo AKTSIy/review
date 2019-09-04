@@ -59,6 +59,7 @@ $name = $_POST['name(f)'];
 	<p>この文を追加</p>
 	<p>この文も追加</p>
 	<p>分岐太郎</p>
+	<p>分岐太郎2</p>
 	<div class="container">
 		<div class="container">
 			<div class="container">
