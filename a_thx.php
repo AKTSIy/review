@@ -58,7 +58,7 @@ $name = $_POST['name(f)'];
 	<p class="center"><?php echo 'your name　　' . $name; ?></p>
 	<p>この文を追加</p>
 	<p>この文も追加</p>
-	<P>分岐本家</P>
+	<P>分岐三郎</P>
 	<div class="container">
 		<div class="container">
 			<div class="container">
