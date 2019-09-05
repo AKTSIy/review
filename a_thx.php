@@ -56,7 +56,11 @@ $name = $_POST['name(f)'];
 	</div>
 	
 	<p class="center"><?php echo 'your name　　' . $name; ?></p>
+<!-- <<<<<<< HEAD -->
 	<div>1</div>
+<!-- =======
+	<div>3</div>
+>>>>>>> 分岐3 -->
 	<div class="container">
 		<div class="container">
 			<div class="container">
